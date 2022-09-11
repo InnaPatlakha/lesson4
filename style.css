@@ -10,3 +10,6 @@ p {
 [dir] {
   background-color: greenyellow;
 }
+body div p {
+  background-color: lightblue;
+}
