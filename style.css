@@ -19,3 +19,6 @@ div > h4 {
 h3 + p {
   background-color: violet;
 }
+.class1.class2 {
+  color: red;
+}
