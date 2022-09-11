@@ -13,3 +13,6 @@ p {
 body div p {
   background-color: lightblue;
 }
+div > h4 {
+  background-color: blue;
+}
