@@ -7,3 +7,6 @@ p {
 #id-name {
   background-color: yellow;
 }
+[dir] {
+  background-color: greenyellow;
+}
