@@ -25,3 +25,6 @@ h3 + p {
 #combo.class4 {
   color: blue;
 }
+.class6[draggable] {
+  color: yellow;
+}
